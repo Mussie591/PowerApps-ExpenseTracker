@@ -26,10 +26,17 @@ efficiently — designed with a clean UI and built using Power Platform best pra
 |![image](https://github.com/user-attachments/assets/1ade6b63-f333-4c31-b47a-61bf0649970a)| ![image](https://github.com/user-attachments/assets/9be00a6c-fabc-4378-96b4-f6aff4bc4b12)| ![image](https://github.com/user-attachments/assets/984f3d23-ee25-4b00-b799-d28a8ad0be3a)
  |
 
-| 📘 Policy Page | ✅ Completed Features |
-|----------------|-----------------------|
-|![image](https://github.com/user-attachments/assets/ac552748-bafc-428f-98c1-383aa282964b)| - Fully responsive UI for mobile 
-                                                                                            - Expense entry form with validation
+### 📘 Policy Page
+
+![image](https://github.com/user-attachments/assets/5dbc0281-aec7-4673-b3e8-5a23825c0087)
+
+
+---
+
+### ✅ Completed Features
+
+- Fully responsive UI for mobile
+- Expense entry form with validation
 - Category and currency dropdowns
 - Real-time expense tracking with totals
 - Monthly trend line chart visualization
@@ -39,9 +46,9 @@ efficiently — designed with a clean UI and built using Power Platform best pra
 - Data connected to backend (SharePoint or Excel)
 - Delegation-safe filtering and sorting
 - Power Platform CLI-based source control
- |
 
 > _All screenshots are from the live mobile version built in Power Apps Studio._
+
 
 ---
 
