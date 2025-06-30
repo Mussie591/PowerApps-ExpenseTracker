@@ -28,8 +28,8 @@ efficiently — designed with a clean UI and built using Power Platform best pra
 
 | 📘 Policy Page | ✅ Completed Features |
 |----------------|-----------------------|
-|![image](https://github.com/user-attachments/assets/ac552748-bafc-428f-98c1-383aa282964b)| - Fully responsive UI for mobile
-- Expense entry form with validation
+|![image](https://github.com/user-attachments/assets/ac552748-bafc-428f-98c1-383aa282964b)| - Fully responsive UI for mobile 
+                                                                                            - Expense entry form with validation
 - Category and currency dropdowns
 - Real-time expense tracking with totals
 - Monthly trend line chart visualization
