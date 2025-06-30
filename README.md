@@ -23,8 +23,7 @@ efficiently — designed with a clean UI and built using Power Platform best pra
 
 | 📊 Dashboard | 🧾 Expense List | ➕ Add Expense |
 |-------------|----------------|----------------|
-|![image](https://github.com/user-attachments/assets/1ade6b63-f333-4c31-b47a-61bf0649970a)| ![image](https://github.com/user-attachments/assets/9be00a6c-fabc-4378-96b4-f6aff4bc4b12)
-| ![image](https://github.com/user-attachments/assets/984f3d23-ee25-4b00-b799-d28a8ad0be3a)
+|![image](https://github.com/user-attachments/assets/1ade6b63-f333-4c31-b47a-61bf0649970a)| ![image](https://github.com/user-attachments/assets/9be00a6c-fabc-4378-96b4-f6aff4bc4b12)| ![image](https://github.com/user-attachments/assets/984f3d23-ee25-4b00-b799-d28a8ad0be3a)
  |
 
 | 📘 Policy Page | ✅ Completed Features |
