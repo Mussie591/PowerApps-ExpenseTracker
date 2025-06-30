@@ -58,3 +58,14 @@ efficiently — designed with a clean UI and built using Power Platform best pra
 - **Data Source**: SharePoint List / Excel (can be customized)
 - **Version Control**: Exported and unpacked using `pac canvas download`
 - **Structure**:
+
+
+---
+
+## 🚀 How to Rebuild Locally
+
+To re-import this app from source:
+
+```bash
+pac canvas pack --sources ./ExpenseAppSrc --msapp ./ExpenseTracker.msapp
+
