@@ -43,7 +43,7 @@ efficiently — designed with a clean UI and built using Power Platform best pra
 - Category-based quick entry templates
 - Expense policy screen with scrollable text
 - Navigation bar with icons
-- Data connected to backend (SharePoint or Excel)
+- Data connected to backend (SharePoint )
 - Delegation-safe filtering and sorting
 - Power Platform CLI-based source control
 
